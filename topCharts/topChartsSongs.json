@@ -1,0 +1,72 @@
+[
+  {
+    "id": "11",
+    "name": "Lehra Do",
+    "image": "https://i.scdn.co/image/ab67616d00001e0234eb0b95b4d3a942cbfd2c9c",
+    "artists": "Arijit Singh",
+    "preview_url": "https://p.scdn.co/mp3-preview/a9a8e4321d7d0fdddee6d12b13d540763f73a91b"
+  },
+  {
+    "id": "12",
+    "name": "Tum Mile",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f7a1e8e1a6b248a4b5e7ed09",
+    "artists": "Pritam, Neeraj Shridhar",
+    "preview_url": "https://p.scdn.co/mp3-preview/8df6ef7247e17aeb00b360fd50a2aa2bfc5603ae"
+  },
+  {
+    "id": "13",
+    "name": "Starboy",
+    "image": "https://i.scdn.co/image/ab67616d00001e027cc403a6f07da5b9a6a34766",
+    "artists": "The Weeknd, Daft Punk",
+    "preview_url": "https://p.scdn.co/mp3-preview/4c62640ef3a8dd3fa40a91c79c451eeadfcf56b0"
+  },
+  {
+    "id": "14",
+    "name": "Tera Hone Laga Hoon",
+    "image": "https://i.scdn.co/image/ab67616d00001e0214aa6654a3be640dd33a524f",
+    "artists": "Atif Aslam, Shreya Ghoshal",
+    "preview_url": "https://p.scdn.co/mp3-preview/947f41951a933af2c3e31510f553a7b63d134af1"
+  },
+  {
+    "id": "15",
+    "name": "Bones",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b0a294c2b57e2c22d259fbf8",
+    "artists": "Imagine Dragons",
+    "preview_url": "https://p.scdn.co/mp3-preview/adc351c87f1cba3c5e97a14a8960ab063d4d8181"
+  },
+  {
+    "id": "16",
+    "name": "Love Me Like You Do",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b6a8cf7a317d35f881f1e56a",
+    "artists": "Ellie Goulding",
+    "preview_url": "https://p.scdn.co/mp3-preview/81fc86527d998dcffac4f18351a6aaf5bc89aaf3"
+  },
+  {
+    "id": "17",
+    "name": "Alag Aasmaan",
+    "image": "https://i.scdn.co/image/ab67616d00001e0263e5c68179f154a34ff55e79",
+    "artists": "Anuv Jain",
+    "preview_url": "https://p.scdn.co/mp3-preview/75c3b1c6f5f80c1fddbbfc1dd291c2b6f52f540d"
+  },
+  {
+    "id": "18",
+    "name": "Vande Mataram",
+    "image": "https://i.scdn.co/image/ab67616d00001e029827f6c3a4b11c214b0b279b",
+    "artists": "Bankim Chandra, Lata Mangeshkar",
+    "preview_url": "https://p.scdn.co/mp3-preview/fb3e48209ab4ee560a7894d156857deac18f88fb"
+  },
+  {
+    "id": "19",
+    "name": "Sunflower",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c718d9f41835c2b4a22495e8",
+    "artists": "Post Malone, Swae Lee",
+    "preview_url": "https://p.scdn.co/mp3-preview/48c1a3886e028b84df9b2352b7d2c378d631e2e7"
+  },
+  {
+    "id": "20",
+    "name": "On My Way",
+    "image": "https://i.scdn.co/image/ab67616d00001e027e2e1bcbb05f785bfecc27d4",
+    "artists": "Alan Walker, Sabrina Carpenter",
+    "preview_url": "https://p.scdn.co/mp3-preview/faf688631acdf3c3578b09551e3c55a4b94aa2ed"
+  }
+]

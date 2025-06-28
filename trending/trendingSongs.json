@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Kesariya",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b013544b6f25631ba0c0f0cf",
+    "artists": "Arijit Singh",
+    "preview_url": "https://p.scdn.co/mp3-preview/9c55c3b2efc6c45d6dfb9c5c9fa2d205df8b5d72"
+  },
+  {
+    "id": "2",
+    "name": "Blinding Lights",
+    "image": "https://i.scdn.co/image/ab67616d00001e0208f7b0e0d028c48be1e1b8d9",
+    "artists": "The Weeknd",
+    "preview_url": "https://p.scdn.co/mp3-preview/fb0a0f8477d54122c8f541e25b1fd594aa9c1aef"
+  },
+  {
+    "id": "3",
+    "name": "Heeriye",
+    "image": "https://i.scdn.co/image/ab67616d00001e02dce9f9a1e9dc6e20e7e6a318",
+    "artists": "Jasleen Royal, Arijit Singh",
+    "preview_url": "https://p.scdn.co/mp3-preview/5d65e926f084b1671dba38e8b8120d93e6d16e41"
+  },
+  {
+    "id": "4",
+    "name": "Calm Down",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f9528fbdcd41789333f95ef8",
+    "artists": "Rema, Selena Gomez",
+    "preview_url": "https://p.scdn.co/mp3-preview/8f746caa7152462fa7b12a681b7d7d505b5f75be"
+  },
+  {
+    "id": "5",
+    "name": "Excuses",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d82ae2b4ceff3c8458db0c5d",
+    "artists": "AP Dhillon",
+    "preview_url": "https://p.scdn.co/mp3-preview/4c0a6370fc05671e57fbece165d73f1c3c690d55"
+  },
+  {
+    "id": "6",
+    "name": "Perfect",
+    "image": "https://i.scdn.co/image/ab67616d00001e023bb7c5c23cb313e2a0f5f59f",
+    "artists": "Ed Sheeran",
+    "preview_url": "https://p.scdn.co/mp3-preview/dfb1407f5bc406c54ffb7c51bbef31fd86ef3bcf"
+  },
+  {
+    "id": "7",
+    "name": "Stay",
+    "image": "https://i.scdn.co/image/ab67616d00001e0221cc2435f8c1c12a51f2bbf7",
+    "artists": "Justin Bieber, The Kid LAROI",
+    "preview_url": "https://p.scdn.co/mp3-preview/b4d9458a93b383d84c99d6219c5b3c2bd180be44"
+  },
+  {
+    "id": "8",
+    "name": "Believer",
+    "image": "https://i.scdn.co/image/ab67616d00001e0280b5f7bfc842b1a3b5a7fc3e",
+    "artists": "Imagine Dragons",
+    "preview_url": "https://p.scdn.co/mp3-preview/73cf2ef7d1971f5a184c960287c0507f3e1e5f0b"
+  },
+  {
+    "id": "9",
+    "name": "Brown Munde",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f372173f2e41878de36979c5",
+    "artists": "AP Dhillon, Gurinder Gill, Shinda Kahlon",
+    "preview_url": "https://p.scdn.co/mp3-preview/aa5b1ad9cb83db038232a5c3d99407f5aa3d1b0d"
+  },
+  {
+    "id": "10",
+    "name": "Shape of You",
+    "image": "https://i.scdn.co/image/ab67616d00001e02081c1c6c2ee3c53a2deff294",
+    "artists": "Ed Sheeran",
+    "preview_url": "https://p.scdn.co/mp3-preview/86c77ba26f8336c442b0cc90a152a053d2d7cd7d"
+  }
+]

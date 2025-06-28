@@ -1,0 +1,54 @@
+{
+  "artists": [
+    {
+      "id": "4YRxDV8wJFPHPTeXepOstw",
+      "name": "Arijit Singh",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4111f9f98679d8d8d2e9c8f0"
+    },
+    {
+      "id": "0oOet2f43PA68X5RxKobEy",
+      "name": "Shreya Ghoshal",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0a27f7c8cb9fdb91173aa3eb"
+    },
+    {
+      "id": "6ZAVRGt1wrbR7wfkqKqmnv",
+      "name": "Talwiinder",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebf6ce944de2c775802d3bc325"
+    },
+    {
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb02d10ef9f0579f6ec3d8348c"
+    },
+    {
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "name": "Justin Bieber",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb12e6e5a6bfae412dbb1d38ac"
+    },
+    {
+      "id": "6pThhFKoZTJ0vzyZSpXjN4",
+      "name": "Raga",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc20b9bb251a9f9f4f5e80ec1"
+    },
+    {
+      "id": "4PULA4EFzYTrxYvOVlwpiQ",
+      "name": "Raftaar",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0aeef2b1ae0f3d0a529b1a6e"
+    },
+    {
+      "id": "7z5WFjZAIYejWy0NI5lvzT",
+      "name": "Yo Yo Honey Singh",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7b0f3ed99d3e3fc7de29d391"
+    },
+    {
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb998bb7b248d5b9b655ee1e6d"
+    },
+    {
+      "id": "7dGJo4pcD2V6oG8kP0tJRR",
+      "name": "Eminem",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebf20f2b36a4e3a6e50c0d87ab"
+    }
+  ]
+}
